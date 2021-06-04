@@ -1,1 +1,1 @@
-# face-mask-detector-and-alert-system
+# face mask detector and alert system
